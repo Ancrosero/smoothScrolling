@@ -39,18 +39,18 @@ nav a {
     display: block;
 }
 
-#page-1, nav a:nth-last-of-type(4){
+#page-1, nav a:nth-of-type(1){
     background-color: #9980FA;
 }
 
-#page-2, nav a:nth-last-of-type(3){
+#page-2, nav a:nth-of-type(2){
     background-color: #ED4C67;
 }
 
-#page-3, nav a:nth-last-of-type(2){
+#page-3, nav a:nth-of-type(3){
     background-color: #12CBC4;
 }
 
-#page-4, nav a:nth-last-of-type(1){
+#page-4, nav a:nth-of-type(4){
     background-color: #A3CB38;
 }
